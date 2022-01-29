@@ -1,0 +1,45 @@
+body {
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+p {
+    margin-bottom: 0;
+}
+
+.header {
+    text-align: center;
+}
+
+.searcher {
+    text-align: center;
+    background-color:  #EEEEEE;
+}
+
+.content {
+    text-align: center;
+}
+
+
+.content-table {
+    text-align: center;
+    width: 100%;
+}
+
+#left {
+    text-align: center;
+    background: #7EE5DA;
+    width: 37%;
+}
+
+#center {
+    text-align: center;
+    background: #70CCC2;
+    font-size: 90%;
+}
+
+#right {
+    text-align: center;
+    background: #62B3AA;
+    font-size: 90%;
+}
